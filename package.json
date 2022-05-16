@@ -1,0 +1,19 @@
+{
+  "name": "adsense-traffic-bot",
+  "version": "1.0.0",
+  "description": "generates traffic and also click on the adsense",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "adsense"
+  ],
+  "author": "chiefo",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^14.0.0",
+    "puppeteer-page-proxy": "^1.2.8"
+  }
+}

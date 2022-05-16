@@ -1,0 +1,74 @@
+[
+  {
+    "name": "YSC",
+    "value": "R6Lm2tLEHTM",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "VISITOR_INFO1_LIVE",
+    "value": "4jHvHBymxas",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1667978017.466289,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "__Secure-3PSID",
+    "value": "KAgfb7VbCde_DWTXAoxY_5W9UP4taE1GvdpG8H_yq4Ne83VgJ6lKXbxRarFLMMVhFSvb6w.",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1715498018.576802,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "__Secure-3PAPISID",
+    "value": "NklHHcXjqAUkrALq/AnmKL-XvhXLnoTLT5",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1715498018.576879,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "LOGIN_INFO",
+    "value": "AFmmF2swRAIgY3A-AfKWzM_tOOEQAmSwiqX0k_i2vrk7rNVjD55dickCIGgO957FN0juwAZP78iGPQWDqwZz4Pm1Lpvuw8z_z7ra:QUQ3MjNmekhEVnRvRDBfdTFNcUJQOGU5b3A1UHVNNl9POGJUcXlaUHlLVGN5cHNZXzdFTVZWVW15TXBqcGEwbzRWTUpnRnlVLTNFVmFmSmZwQTJlWmZlOW5NY0ExTmJRY1RzMy1namhvSEVhSVA4ZmJoOFhtZG5Wc0N1ME5BcDlrekk4dVlSLWpqS25iRnI5ZGFGY2xrY1cxM29KQjNqSFln",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1715498021.356185,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "PREF",
+    "value": "tz=America.Los_Angeles&f6=40000000",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1715498029,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "__Secure-3PSIDCC",
+    "value": "AJi4QfGSYGFzMGe-b-sq9Py3DKVvmEt9bqA70pnzTJx0M_yfx1tdOq0kKswltl-6zIR6D6zp",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1683963864.237868,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "CONSISTENCY",
+    "value": "AGDxDeO3-HINZvwOywNW6Itw15LJa5vTWHuSe5zFJGkXzj9u2NQGaFohTFKMWScFORfvAPNxuDdOU5PZaeb0F8qvhojrAQdBMfOsuykdePpLIiOnf_rFrm2ld2MvMp8v1MyLYTV60auaSZhsQtblaVdZ",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1652428464,
+    "httpOnly": false,
+    "secure": true
+  }
+]
